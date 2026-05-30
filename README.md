@@ -4,7 +4,7 @@ Salut !
 
 E.V.A est un projet personnel ET GRATUIT OPEN SOURCE crée par @Discord:Furret
 
-L'idée est simple : créer une assistante virtuelle capable de controlé l'ordinateur de l'hôte, d'y avoir un plein pouvoir et de l'assisté dans ces taches.
+L'idée est simple : créer une assistante virtuelle capable de controlé l'ordinateur de l'hôte, d'y avoir un plein pouvoir et de l'assisté dans ses taches.
 
 Pour l'instant, E.V.A est encore en développement.
 
